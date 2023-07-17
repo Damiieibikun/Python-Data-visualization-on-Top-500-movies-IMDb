@@ -2,8 +2,7 @@
 A python visualization project on analysing top 500+ movies of all time from IMDb website
 
 ### Introduction ###
-
-
+The aim of this project was to gather valuable information from movie websites like IMDb by extracting data through webscraping techniques. IMDb stands for the Internet Movie Database. It is an online database that provides information related to movies, television shows, actors, directors, producers, and other film industry professionals. It serves as a valuable resource for movie enthusiasts, professionals in the entertainment industry, and anyone looking to explore information about films and TV shows. Through data analysis and visualization on the scrapped data, we can begin to unravel hidden patterns and unveil intriguing insights based on features of a movie such as ratings, genre, director's information, release date of films, year of production, etc.
 
 
 ### Methodology Approach ###
