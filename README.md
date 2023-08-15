@@ -14,7 +14,7 @@ The methodology adopted during the course of this project includes:
 
 ### Dependencies ###
 * Data collection libraries 
-    * BeautifulSoup 4
+    * BeautifulSoup4
     * Requests
 * Data Wrangling and processing Libraries
     * Pandas
@@ -35,4 +35,4 @@ Through analysis of the data, the following can be interpreted.
 * Similarly, the film's box office earnings did not ensure positive reviews.
 * There was a disparity between the preferences of average IMDb viewers and the criteria that critics use to judge a film's greatness.
 * Crime dramas and dramas were likely to receive high ratings from both IMDb users and Metacritic.
-* Movies directed by Steven Spielberg and Martin Scorsese are highly likely to get excellent reviews.
+* Movies directed by Steven Spielberg, Alfred Hitchcock, Stanley Kubrick, and Martin Scorsese were very likely to get excellent reviews.
