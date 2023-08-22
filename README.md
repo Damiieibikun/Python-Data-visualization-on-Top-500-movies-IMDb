@@ -24,6 +24,7 @@ The methodology adopted during the course of this project includes:
     * Matplotlib
     * Seaborn
     * Wordcloud
+    * Plotly express
 
 
 
