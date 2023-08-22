@@ -24,7 +24,7 @@ The methodology adopted during the course of this project includes:
     * Matplotlib
     * Seaborn
     * Wordcloud
-    * Plotly Express
+
 
 
 ### Deliverables ###
@@ -35,5 +35,5 @@ Through analysis of the data, the following can be interpreted.
 * The length of the film did not ensure positive reviews.
 * Similarly, the film's box office earnings did not ensure positive reviews.
 * There was a disparity between the preferences of average IMDb viewers and the criteria that critics use to judge a film's greatness.
-* Crime dramas and dramas were likely to receive high ratings from both IMDb users and Metacritic.
+* Crime dramas and dramas were likely to receive high ratings from IMDb users and Metacritic users.
 * Movies directed by Steven Spielberg, Alfred Hitchcock, Stanley Kubrick, and Martin Scorsese were very likely to get excellent reviews.
